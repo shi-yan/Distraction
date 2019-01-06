@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>external-link-symbol.png</file>
+        <file>move-option.png</file>
+        <file>youtube-logo.png</file>
+    </qresource>
+</RCC>
